@@ -1,3 +1,11 @@
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+<p><b>I'm George, a 3rd-year AI Systems student at BMSTU and an active participant in VK Education's Web Development program</b></p>
+
+
 <div id="header" align="center">
   <img src="https://i.pinimg.com/736x/b3/25/f6/b325f69e199b6d6e8d6808129e6d7aa9.jpg" width="120"/>
   <div id="badges">
@@ -7,14 +15,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=SkorikovGeorge&style=flat-square&color=blue" alt="" width="100"/>
 </div>
-
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<p><b>I'm George, a 3rd-year AI Systems student at BMSTU and an active participant in VK Education's Web Development program</b></p>
-
 
 ---
 
